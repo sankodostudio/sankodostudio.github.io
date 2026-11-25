@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="name">
+  <title id="name">Sankodo Studio</title>
+  <rect x="5" y="5" width="246" height="246" rx="55" fill="#13120f"/>
+  <rect x="15" y="15" width="226" height="226" rx="46" fill="#39342b"/>
+  <rect x="17" y="17" width="222" height="222" rx="44" fill="#13120f"/>
+  <path fill="#ebe3d1" d="M43 97h170v18H43zm38-38h18v101H81zm68-7h18v72c0 44-22 73-64 93l-8-16c36-17 54-41 54-77z"/>
+  <path fill="#e2502f" d="M99 97h50v18H99z"/>
+</svg>
